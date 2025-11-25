@@ -77,7 +77,7 @@ After using comparison operators, the result will be true or false.
 |>=|greater than or equal|
 |<=|less than or equal|
 |==|equal|
-|! =|not equal|
+|!=|not equal|
 
 ## Convert Data Type
 
